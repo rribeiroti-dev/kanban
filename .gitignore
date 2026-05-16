@@ -1,0 +1,23 @@
+# Node modules e logs
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências do Sistema / OS
+.DS_Store
+Thumbs.db
+
+# Configurações de Editores / IDEs
+.vscode/
+.idea/
+
+# Agentes e Ferramentas AI locais (se houver caches ou pastas temporárias)
+.gemini/
+.env
+.agent/
+
+# Builds ou Pastas Temporárias (uso futuro)
+dist/
+build/
+.cache/
